@@ -1,1 +1,1 @@
-# Prediting-Solar-and-wind-energy
+Used machine learning(ARIMA) and time series analysis to predict solar and wind energy output in Germany for the next 14 days . There seems to be an increase in solar and wind production over the years and this is clearly due to the fact that this country has been adding more and more solar and wind farms.
